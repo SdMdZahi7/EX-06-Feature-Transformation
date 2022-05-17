@@ -19,9 +19,9 @@ Save the data to the file
 
 
 # CODE
-~~~
 Developed by :SYED MUHAMMED ZAHI
 Regsiter no : 212221230114
+~~~
 import pandas as pd
 import numpy as np
 import scipy.stats as stats
